@@ -39,7 +39,7 @@ Agora só copiar TODO o conteúdo da chave e ir para o github adiciona-la. Vá p
 Insira os comandos:
 
 $ git config --global user.name Your Name
-$ git config --global user.email codexico@gmail.com
+$ git config --global user.email user@gmail.com
 
 ####Pronto...
 
@@ -51,7 +51,7 @@ $ git init
 
 Vamos adicionar o repositório do github...
 
-$ git remote add origin git@github.com:codexico/tutorial-github.git
+$ git remote add origin git@github.com:username/Testes.git
 
 Agora adicionamos as alterações nos arquivos individualmente ou vários de uma vez.
 
